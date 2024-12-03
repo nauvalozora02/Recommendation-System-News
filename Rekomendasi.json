@@ -1,0 +1,42 @@
+[
+    {
+        "id": "001",
+        "title": "MPR RI Minta Tambah Anggaran Kegiatan dan Program Rp251 Miliar, Total Rp1,1 Triliun",
+        "kategori": "Politik",
+        "relevan": "0",
+        "tipe": "new",
+        "similarity_score": 1.0
+    },
+    {
+        "id": "003",
+        "title": "Komisi III DPR RI Dorong Penambahan Anggaran MPR dan DPD di Tahun 2025",
+        "kategori": "Politik",
+        "relevan": "0",
+        "tipe": "new",
+        "similarity_score": 0.9169022138190376
+    },
+    {
+        "id": "005",
+        "title": "Otorita IKN Minta Anggaran Rp 29,8 Triliun Tahun 2025, Buat Apa Saja?",
+        "kategori": "Politik",
+        "relevan": "0",
+        "tipe": "new",
+        "similarity_score": 0.9004135650510742
+    },
+    {
+        "id": "006",
+        "title": "Kemenkes: Anggaran Kesehatan Rp186,4 Triliun Akomodir Transformasi Kesehatan",
+        "kategori": "Politik",
+        "relevan": "0",
+        "tipe": "new",
+        "similarity_score": 0.874631497578752
+    },
+    {
+        "id": "009",
+        "title": "Komisi III DPR perjuangkan tambahan anggaran BNN dan BNPT tahun 2025",
+        "kategori": "Politik",
+        "relevan": "0",
+        "tipe": "new",
+        "similarity_score": 0.8353693819589901
+    }
+]
